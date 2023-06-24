@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ReactJS/static/css/main.f6011120.css",
+    "main.js": "/ReactJS/static/js/main.fee32fbb.js",
+    "index.html": "/ReactJS/index.html",
+    "main.f6011120.css.map": "/ReactJS/static/css/main.f6011120.css.map",
+    "main.fee32fbb.js.map": "/ReactJS/static/js/main.fee32fbb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6011120.css",
+    "static/js/main.fee32fbb.js"
+  ]
+}
